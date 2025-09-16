@@ -1,0 +1,12 @@
+{
+  "categories": [
+    "education",
+    "productivity",
+    "utilities"
+  ],
+  "description": "Vanilla Calendar est une application de calendrier entièrement réactive construite en HTML, CSS et JavaScript. Créez, gérez et visualisez des événements en temps réel, le tout conçu de A à Z sans bibliothèques ni frameworks.",
+  "display": "fullscreen",
+  "name": "Vanilla Calendar",
+  "orientation": "portrait",
+  "theme_color": "#2563eb"
+}
